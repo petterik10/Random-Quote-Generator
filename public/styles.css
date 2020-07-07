@@ -1,0 +1,57 @@
+ * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ body {
+  font: normal 14px/100% "Andale Mono", AndaleMono, monospace;
+  color: #fff;
+  width: 100%;
+  font-weight:400;
+  margin: 0 auto;
+  background-color: #374954;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 3.125rem;
+}
+
+
+button {
+  display: inline-block;
+  background-color: #6bbe92;
+  padding: 10px;
+  border: 1 px solid black;
+  margin: 10px;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+}
+
+.quote {
+  background-color: #FFFFFF;  
+  width: 50%; 
+  padding-top: 1.25rem; 
+  margin: 0 auto; 
+  margin-top: 6.25rem;
+  border-radius: 3px;
+}
+
+#author {
+  text-align: right;
+  margin-top: 1.25rem; 
+  padding-right: 1.25rem;
+}
+
+.text {
+  font-family: sans-serif;
+  text-align: justify;
+  width: 350px;
+  height: auto;
+  margin: 0 auto; 
+  padding-top: 2px;
+  font-size: 1.6rem;
+  line-height: 30px;
+}
